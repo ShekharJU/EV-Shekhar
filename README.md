@@ -9,18 +9,6 @@ git clone https://github.com/ShekharJU/EV-Shekhar.git
 cd EV-Shekhar
 ```
 
-### Install Dependencies
-
-```bash
-npm install
-```
-
-### Run Locally
-
-```bash
-npm run dev
-```
-
 ## Deployment
 
 The dashboard is deployed and accessible at:
