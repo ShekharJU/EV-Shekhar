@@ -6,7 +6,6 @@
 
 ```bash
 git clone https://github.com/ShekharJU/EV-Shekhar.git
-cd EV-Shekhar
 ```
 
 ## Deployment
